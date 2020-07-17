@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="093060f4-6230-4107-8e92-8920e1f55fa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E7339626-780C-4225-A9C3-D4857115A9FB/2e/3938245a/PdfReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CBB3AFB-0412-4C0B-A69A-70914F17CAC2/e1/30b31a88/XamlWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFExtract/ExtractDataFromCoordinates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CBB3AFB-0412-4C0B-A69A-70914F17CAC2/49/3a93dbf6/XamlObjectWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/MainWindows2.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/MainWindows2.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CBB3AFB-0412-4C0B-A69A-70914F17CAC2/82/dd89503d/ClrObjectRuntime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFExtract/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1442E3F-8A62-4E3C-811A-8D723936C02D/a5/9af52949/XamlReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CBB3AFB-0412-4C0B-A69A-70914F17CAC2/04/0154c5cd/XamlTypeInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/MainWindow.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/53/169f7b12/Activator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CBB3AFB-0412-4C0B-A69A-70914F17CAC2/a9/49321da1/SafeReflectionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/App.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/MainWindow.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1442E3F-8A62-4E3C-811A-8D723936C02D/10/27831918/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PDFViewer/App.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/15/b22ec20e/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1442E3F-8A62-4E3C-811A-8D723936C02D/2a/1b83cb45/WpfXamlLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProcesarPDF/PDFClass.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PDFViewer/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/PDFViewer/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/PDFViewer/MainWindows2.xaml.cs" />
+        <option value="$PROJECT_DIR$/PDFViewer/App.xaml" />
+        <option value="$PROJECT_DIR$/PDFViewer/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/PDFExtract/ExtractDataFromCoordinates.cs" />
+        <option value="$PROJECT_DIR$/PDFExtract/Program.cs" />
+        <option value="$PROJECT_DIR$/ProcesarPDF/Class1.cs" />
+        <option value="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/ProcesarPDF/PDFClass.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dyEB8caECHxJRlsuotZPXNwDoE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Desktop">
+    <configuration name="Desktop" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/JPGCoordinates/bin/Debug/JPGCoordinates.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JPGCoordinates/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JPGCoordinates/JPGCoordinates.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDFExtract" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PDFExtract/bin/Debug/PDFExtract.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDFExtract/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PDFExtract/PDFExtract.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.PDFExtract" />
+      <item itemvalue=".NET Project.Desktop" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093060f4-6230-4107-8e92-8920e1f55fa8" name="Default Changelist" comment="" />
+      <created>1593388796199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593388796199</updated>
+      <workItem from="1593388803790" duration="7006000" />
+      <workItem from="1593478899249" duration="14609000" />
+      <workItem from="1593919886768" duration="7106000" />
+      <workItem from="1594230922847" duration="2132000" />
+      <workItem from="1594392538137" duration="1014000" />
+      <workItem from="1594401986671" duration="9325000" />
+      <workItem from="1595002186563" duration="2973000" />
+      <workItem from="1595006746741" duration="1283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593533026349">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593533026349" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1594430297065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594409917483" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594430297065" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1594430297065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594409917483" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594430297065" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1594430297065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593807033969" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594409917483" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594430297065" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1594430297065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594409917483" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594430297065" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593807033971" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593807033970" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.2.bottom" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593807033972" />
+    <state width="1876" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693307" />
+    <state width="1876" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.2.center" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1593807033971" />
+    <state width="1876" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.2.left" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1593807033971" />
+    <state width="1876" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693306" />
+    <state width="1876" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.2.right" timestamp="1594428293783">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1593807033971" />
+    <state width="1876" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693307" />
+    <state width="1876" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293783" />
+    <state width="1876" height="348" key="GridCell.Tab.3.bottom" timestamp="1594428293784">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593807033973" />
+    <state width="1876" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693308" />
+    <state width="1876" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293784" />
+    <state width="1876" height="348" key="GridCell.Tab.3.center" timestamp="1594428293784">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1593807033972" />
+    <state width="1876" height="348" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693307" />
+    <state width="1876" height="348" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293784" />
+    <state width="1876" height="348" key="GridCell.Tab.3.left" timestamp="1594428293784">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1593807033972" />
+    <state width="1876" height="348" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693307" />
+    <state width="1876" height="348" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293784" />
+    <state width="1876" height="348" key="GridCell.Tab.3.right" timestamp="1594428293784">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1593807033972" />
+    <state width="1876" height="348" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693308" />
+    <state width="1876" height="348" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293784" />
+    <state width="1876" height="348" key="GridCell.Tab.4.bottom" timestamp="1594428293785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593807033974" />
+    <state width="1876" height="348" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693309" />
+    <state width="1876" height="348" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293785" />
+    <state width="1876" height="348" key="GridCell.Tab.4.center" timestamp="1594428293785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1366.728@0.0.1366.728" timestamp="1593807033974" />
+    <state width="1876" height="348" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693308" />
+    <state width="1876" height="348" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293785" />
+    <state width="1876" height="348" key="GridCell.Tab.4.left" timestamp="1594428293784">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1366.728@0.0.1366.728" timestamp="1593807033974" />
+    <state width="1876" height="348" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693308" />
+    <state width="1876" height="348" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293784" />
+    <state width="1876" height="348" key="GridCell.Tab.4.right" timestamp="1594428293785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1593807033974" />
+    <state width="1876" height="348" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594068693308" />
+    <state width="1876" height="348" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428293785" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1593625465319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593625465319" />
+    <state x="2472" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593532913773" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1595007983330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595007983330" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593478796157" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595008057582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595008057582" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593479080949" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\bin\Debug\PDFExtract.exe
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\bin\Debug\PDFExtract.pdb
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\bin\Debug\itextsharp.dll
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\bin\Debug\itextsharp.xml
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\obj\Debug\PDFExtract.csprojAssemblyReference.cache
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\obj\Debug\PDFExtract.csproj.CoreCompileInputs.cache
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\obj\Debug\PDFExtract.csproj.CopyComplete
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\obj\Debug\PDFExtract.exe
+C:\Users\dsasco\RiderProjects\PDFExtract\PDFExtract\obj\Debug\PDFExtract.pdb

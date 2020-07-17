@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFExtract", "PDFExtract\PDFExtract.csproj", "{0719BFBC-7F42-411F-91A3-B4B7149F9B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFViewer", "PDFViewer\PDFViewer.csproj", "{F7FE5ABC-4AED-40B7-8234-7D74071D83DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPGCoordinates", "JPGCoordinates\JPGCoordinates.csproj", "{FCA2AB74-F630-4BD8-A5D7-4E770808E04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcesarPDF", "ProcesarPDF\ProcesarPDF.csproj", "{C0D6E765-0BE9-4F25-82AB-CBC139DA2CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0719BFBC-7F42-411F-91A3-B4B7149F9B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0719BFBC-7F42-411F-91A3-B4B7149F9B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0719BFBC-7F42-411F-91A3-B4B7149F9B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0719BFBC-7F42-411F-91A3-B4B7149F9B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FE5ABC-4AED-40B7-8234-7D74071D83DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FE5ABC-4AED-40B7-8234-7D74071D83DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FE5ABC-4AED-40B7-8234-7D74071D83DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FE5ABC-4AED-40B7-8234-7D74071D83DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA2AB74-F630-4BD8-A5D7-4E770808E04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA2AB74-F630-4BD8-A5D7-4E770808E04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA2AB74-F630-4BD8-A5D7-4E770808E04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA2AB74-F630-4BD8-A5D7-4E770808E04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D6E765-0BE9-4F25-82AB-CBC139DA2CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D6E765-0BE9-4F25-82AB-CBC139DA2CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D6E765-0BE9-4F25-82AB-CBC139DA2CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D6E765-0BE9-4F25-82AB-CBC139DA2CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
