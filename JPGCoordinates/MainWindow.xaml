@@ -23,6 +23,7 @@
                 <Label x:Name="PosX"></Label>
                 <Label x:Name="PosY"></Label>
                 <Separator Height="5px"></Separator>
+                
                 <Label x:Name="RecADX"></Label>
                 <Label x:Name="RecADY"></Label>
                 <Label x:Name="RecBIX"></Label>

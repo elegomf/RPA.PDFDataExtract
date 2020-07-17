@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="093060f4-6230-4107-8e92-8920e1f55fa8" name="Default Changelist" comment="" />
+    <list default="true" id="093060f4-6230-4107-8e92-8920e1f55fa8" name="Default Changelist" comment="inicializar repositorio">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PDFExtract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PDFExtract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E7339626-780C-4225-A9C3-D4857115A9FB/2e/3938245a/PdfReader.cs" root0="SKIP_HIGHLIGHTING" />
@@ -43,9 +49,9 @@
         <option value="$PROJECT_DIR$/PDFExtract/ExtractDataFromCoordinates.cs" />
         <option value="$PROJECT_DIR$/PDFExtract/Program.cs" />
         <option value="$PROJECT_DIR$/ProcesarPDF/Class1.cs" />
-        <option value="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" />
         <option value="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml.cs" />
         <option value="$PROJECT_DIR$/ProcesarPDF/PDFClass.cs" />
+        <option value="$PROJECT_DIR$/JPGCoordinates/MainWindow.xaml" />
       </list>
     </option>
   </component>
@@ -129,7 +135,8 @@
       <workItem from="1594392538137" duration="1014000" />
       <workItem from="1594401986671" duration="9325000" />
       <workItem from="1595002186563" duration="2973000" />
-      <workItem from="1595006746741" duration="1283000" />
+      <workItem from="1595006746741" duration="1447000" />
+      <workItem from="1595008759288" duration="24000" />
     </task>
     <servers />
   </component>
